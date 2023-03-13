@@ -1,5 +1,5 @@
 PKG_NAME := pypi-hatch_requirements_txt
-URL = https://files.pythonhosted.org/packages/ef/a0/e0bf0e734026f6be03a6b752b4557c584638295a6d5e37cf70eff6b1aee5/hatch_requirements_txt-0.3.0.tar.gz
+URL = https://files.pythonhosted.org/packages/03/a9/478750388ddf54be886abb7cdb032e3b5a23c8886a8b1953fb66cd98c908/hatch_requirements_txt-0.4.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
