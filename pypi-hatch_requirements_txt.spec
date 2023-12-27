@@ -4,7 +4,7 @@
 #
 Name     : pypi-hatch_requirements_txt
 Version  : 0.4.0
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/03/a9/478750388ddf54be886abb7cdb032e3b5a23c8886a8b1953fb66cd98c908/hatch_requirements_txt-0.4.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/03/a9/478750388ddf54be886abb7cdb032e3b5a23c8886a8b1953fb66cd98c908/hatch_requirements_txt-0.4.0.tar.gz
 Summary  : Hatchling plugin to read project dependencies from requirements.txt
